@@ -35,6 +35,6 @@ class Db{
 }
 
 $connect = Db::getInstance()->connect();
-var_dump($connect);//资源
+var_dump($connect);//资源1
 
 ?>
